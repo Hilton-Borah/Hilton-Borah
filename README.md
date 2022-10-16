@@ -1,3 +1,6 @@
+<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <h1 align="center">Hi 👋, I'm Hilton Kumar Borah</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a42b3n48m5m22lwh4gzsuqdb8fef2m1sdioobrc2&rid=giphy.gif&ct=g" alt="">
