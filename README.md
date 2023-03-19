@@ -20,7 +20,7 @@
 
 - 🙂 Self Motivated<br>
 
-- 🌱 I’m currently lerning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://hilton-borah.github.io/)
 
