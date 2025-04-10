@@ -13,22 +13,15 @@
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a42b3n48m5m22lwh4gzsuqdb8fef2m1sdioobrc2&rid=giphy.gif&ct=g" alt="">
 
 
-# 💫 About Me:
-- 👯 I’m looking to collaborate on Good Tech Skills<br>
+## 💡 About Me
+I’m a dedicated **Full-Stack Developer** with over **2 years of experience**, having worked on **5+ real-world projects** that solve real problems. I thrive on building impactful solutions, collaborating with teams, and exploring the latest in tech. My curiosity drives me to constantly learn and innovate.
 
-- 😎 Interested in frontent technologies....<br>
-
-- 🙂 Self Motivated<br>
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [My portfolio](https://hilton-borah.github.io/)
-
-- 💬 Ask me about **HTML, CSS, Javascript, React, Node.js, Express, MongoDB**
-
-- 📫 How to reach me **hiltonborah123@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1euCvjYR9Wt9TTHX8C_wCLf0Pb_TaXd1F/view?usp=sharing)
+- 🌟 **Currently mastering**: MERN Stack (MongoDB, Express.js, React, Node.js)  
+- 💻 **Portfolio**: [hilton-borah.github.io](https://hilton-borah.github.io/)  
+- 📩 **Email me**: [hiltonborah123@gmail.com](mailto:hiltonborah123@gmail.com)  
+- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1euCvjYR9Wt9TTHX8C_wCLf0Pb_TaXd1F/view?usp=sharing)  
+- 👯 **Open to**: Exciting collaborations and challenging projects  
+- 💬 **Ask me about**: HTML, CSS, JavaScript, React, Node.js, and more!
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
